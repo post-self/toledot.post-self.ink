@@ -2,3 +2,15 @@ baseURL = 'https://toledot.makyo.ink/'
 languageCode = 'en-us'
 title = 'Toledot'
 theme = 'maddybook'
+paginatePath = ""
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2021
+
+[markup.goldmark.renderer]
+    unsafe = true
