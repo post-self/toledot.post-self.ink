@@ -1,0 +1,4 @@
+baseURL = 'https://toledot.makyo.ink/'
+languageCode = 'en-us'
+title = 'Toledot'
+theme = 'maddybook'
