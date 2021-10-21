@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Toledot'
 theme = 'maddybook'
 paginatePath = ""
+disablePathToLower = true
 
 [permalinks]
     post = '/:filename/'
@@ -11,6 +12,9 @@ paginatePath = ""
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = 2021
+    customCSS = ['css/toledot.css']
+    subtitle = 'Post-Self book II'
+    subtitleLink = 'https://post-self.makyo.io'
 
 [markup.goldmark.renderer]
     unsafe = true
