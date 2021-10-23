@@ -2,6 +2,19 @@
 ---
 
 <style>
+/*
+The Only Time I Know My True Name Is When I Dream,
+
+You still have the revocation certificate for my key. As mentioned, I am out.
+
+Key is still on keys.openpgp.org - Please revoke for both our sakes.
+
+In penance,
+
+Do I Know God After The End Waking of the Ode clade
+
+Systime 143+292
+*/
 pre {
     font-size: 12pt;
 }
