@@ -14,7 +14,7 @@ disablePathToLower = true
     copyright = 2021
     customCSS = ['css/toledot.css']
     subtitle = 'Post-Self book II'
-    subtitleLink = 'https://post-self.makyo.io'
+    subtitleLink = 'https://post-self.makyo.ink'
 
 [markup.goldmark.renderer]
     unsafe = true
