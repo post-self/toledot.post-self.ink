@@ -4,6 +4,8 @@ No longer bound to the physical, what lengths should one go to in a virtual worl
 
 Secession. Launch. Two separations from two societies, two hundred years apart. And through it all, so many parallels run on so many levels that it can be dizzying just keeping up. The more Ioan and Codrin Bălan learn, the more it calls into question the motivations of even those they hold most dear.
 
+**Coming January 21, 2022!**
+
 
 ## Advance Praise
 
