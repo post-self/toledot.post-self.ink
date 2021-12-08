@@ -1,3 +1,5 @@
+![Toledot cover](/cover.png)
+
 > "I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."
 
 No longer bound to the physical, what lengths should one go to in a virtual world to ensure the continuity of one's existence?
