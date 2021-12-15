@@ -16,7 +16,7 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 
 > Madison Scott-Clary . . . trusts her readers to be able to understand a completely different culture and existence than our own, and makes it compelling to do so.
 
---- [Payton R. Harris](https://www.goodreads.com/review/show/4376557723)
+--- [Payson R. Harris](https://www.goodreads.com/review/show/4376557723)
 
 > \[Toledot is\] one of the best explanations of the old saying "I contain multitudes'' in that it explores how one person through various stimuli, experiences, and trauma can become a completely different being.
 
