@@ -1,5 +1,8 @@
 ![Toledot cover](/cover.png)
 
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://makyo.gumroad.com/l/VwxSLo">Pre-order ebook</a> <a class="gumroad-button" href="https://makyo-ink.square.site/product/post-self-2-toledot/11">Pre-order paperback</a>
+
 > "I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."
 
 No longer bound to the physical, what lengths should one go to in a virtual world to ensure the continuity of one's existence?
