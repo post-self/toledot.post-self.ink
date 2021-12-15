@@ -1,0 +1,2 @@
+*.sw[op]
+.hugo_build.lock
