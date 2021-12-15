@@ -15,7 +15,7 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 
 --- [Payton R. Harris](https://www.goodreads.com/review/show/4376557723)
 
-> It's one of the best explanations of the old saying "I contain multitudes'' in that it explores how one person through various stimuli, experiences, and trauma can become a completely different being.
+> \[Toledot is\] one of the best explanations of the old saying "I contain multitudes'' in that it explores how one person through various stimuli, experiences, and trauma can become a completely different being.
 
 --- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/4389421663)
 
