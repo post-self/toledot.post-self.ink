@@ -11,6 +11,10 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 
 **Coming January 21, 2022!**
 
+-----
+
+<p style="text-indent: 0; text-align: center">Read a <a href="/sample">sample chapter</a>!</p>
+
 
 ## Advance Praise
 
