@@ -1,5 +1,4 @@
 ---
-title: Toledot
 type: chapter
 ---
 
