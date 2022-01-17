@@ -13,7 +13,7 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 
 -----
 
-<p style="text-indent: 0; text-align: center">Read a <a href="/sample">sample chapter</a>!</p>
+<p style="text-indent: 0; text-align: center">Read <a href="/sample">sample chapter 1</a> and <a href="/sample2">sample chapter 2</a>!</p>
 
 
 ## Advance Praise
