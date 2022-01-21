@@ -13,7 +13,7 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 
 -----
 
-<p style="text-indent: 0; text-align: center">Strapped for cash? <a href="/read">Read online for free!</a></p>
+<p style="text-indent: 0; text-align: center">Strapped for cash? <a href="/read">Read online for free!</a><br>Still need to read book I? You can find <em>Qoheleth</em> <a href="https://qoheleth.makyo.ink">here</a>.</p>
 
 
 ## Advance Praise
