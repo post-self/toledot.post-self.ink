@@ -1,7 +1,7 @@
 ![Toledot cover](/cover.png)
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://makyo.gumroad.com/l/VwxSLo">Pre-order ebook</a> <a class="gumroad-button" href="https://makyo-ink.square.site/product/post-self-2-toledot/11">Pre-order paperback</a>
+<a class="gumroad-button" href="https://makyo.gumroad.com/l/VwxSLo">Order ebook</a> <a class="gumroad-button" href="https://makyo-ink.square.site/product/post-self-2-toledot/11">Order paperback</a>
 
 > "I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."
 
@@ -9,11 +9,9 @@ No longer bound to the physical, what lengths should one go to in a virtual worl
 
 Secession. Launch. Two separations from two societies, two hundred years apart. And through it all, so many parallels run on so many levels that it can be dizzying just keeping up. The more Ioan and Codrin Bălan learn, the more it calls into question the motivations of even those they hold most dear.
 
-**Coming January 21, 2022!**
-
 -----
 
-<p style="text-indent: 0; text-align: center">Read <a href="/sample">sample chapter 1</a> and <a href="/sample2">sample chapter 2</a>!</p>
+<p style="text-indent: 0; text-align: center">Strapped for cash? <a href="/read">Read online for free!</a></p>
 
 
 ## Advance Praise
