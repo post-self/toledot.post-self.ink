@@ -1,7 +1,9 @@
 ![Toledot cover](/cover.png)
 
+<p style="text-indent: 0; text-align: center">
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://makyo.gumroad.com/l/VwxSLo">Order ebook</a> <a class="gumroad-button" href="https://makyo-ink.square.site/product/post-self-2-toledot/11">Order paperback</a>
+</p>
 
 > "I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."
 
