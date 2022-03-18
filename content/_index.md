@@ -1,8 +1,9 @@
 ![Toledot cover](/cover.png)
 
-<p style="text-indent: 0; text-align: center">
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://makyo.gumroad.com/l/VwxSLo">Order ebook</a> <a class="gumroad-button" href="https://makyo-ink.square.site/product/post-self-2-toledot/11">Order paperback</a>
+<p class="buy">
+<a href="https://makyo.itch.io/toledot" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/post-self-2-toledot/11" target="_blank">Order paperback</a> 
+<a href="https://anchor.fm/post-self" target="_blank">Listen to the podcast</a>
 </p>
 
 > "I am saying that you trust me — really trust me — and that life in the System is more subtle than I think you know. You let me into your dreams, my dear, and your dreams influence this place as much as, if not more than, your waking mind."
@@ -13,7 +14,9 @@ Secession. Launch. Two separations from two societies, two hundred years apart. 
 
 -----
 
-<p style="text-indent: 0; text-align: center">Strapped for cash? <a href="/read">Read online for free!</a><br>Still need to read book I? You can find <em>Qoheleth</em> <a href="https://qoheleth.makyo.ink">here</a>.</p>
+<p class="buy">Also available at several fine independent booksellers (and many much larger ones).</p>
+<p class="buy">Strapped for cash? <a href="/read">Read online for free!</a></p>
+<p class="buy">Still need to read book I? <a href="https://qoheleth.makyo.ink">Read <em>Qoheleth</em>.</a></p>
 
 
 ## Advance Praise
