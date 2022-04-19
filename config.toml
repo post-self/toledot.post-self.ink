@@ -12,7 +12,7 @@ disablePathToLower = true
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = 2021
-    customCSS = ['css/toledot.css']
+    customCSS = ['/css/toledot.css']
     subtitle = 'Post-Self book II'
     subtitleLink = 'https://post-self.makyo.ink'
 
