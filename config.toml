@@ -1,4 +1,4 @@
-baseURL = 'https://toledot.makyo.ink/'
+baseURL = 'https://toledot.post-self.ink/'
 languageCode = 'en-us'
 title = 'Toledot'
 theme = 'maddybook'
@@ -14,7 +14,7 @@ disablePathToLower = true
     copyright = 2021
     customCSS = ['/css/toledot.css']
     subtitle = 'Post-Self book II'
-    subtitleLink = 'https://post-self.makyo.ink'
+    subtitleLink = 'https://post-self.ink'
 
 [markup.goldmark.renderer]
     unsafe = true
