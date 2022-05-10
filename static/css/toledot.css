@@ -11,3 +11,7 @@ h1, h2 {
 blockquote {
     overflow-wrap: break-word;
 }
+
+blockquote ul {
+    list-style-type: disc;
+}
